@@ -1,6 +1,18 @@
 # Figma-design
 
-Frist Screen of project
+It seems you are sharing details about the first screen of your project and referencing a Figma design or screenshot for a login page. If you need help with implementation, here are some steps or information you might find helpful:
+
+1. Login Page Key Features
+User Interface:
+Input fields: Username/Email, Password
+Buttons: Login, Forgot Password, Signup/Register
+Design Enhancements:
+Background image, gradient, or solid color
+Center-aligned login form with padding
+Responsive layout for different devices
+Error Handling:
+Validation messages for incorrect input
+Feedback for successful or failed login
 
 
 
