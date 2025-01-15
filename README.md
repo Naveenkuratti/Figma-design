@@ -4,7 +4,7 @@ It seems you are sharing details about the first screen of your project and refe
 
 1. Login Page Key Features
 User Interface:
-Input fields: Username/Email, Password
+Input fields: Username/Email, Password                                            
 Buttons: Login, Forgot Password, Signup/Register
 Design Enhancements:
 Background image, gradient, or solid color
