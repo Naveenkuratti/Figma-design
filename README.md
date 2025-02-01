@@ -23,6 +23,4 @@ Feedback for successful or failed login
 ![Screenshot 2025-01-07 201836](https://github.com/user-attachments/assets/90c7d822-099e-4a09-ab1d-bad1f00edef9)
 
 
-
-
-![Screenshot 2025-01-07 201249](https://github.com/user-attachments/assets/c1fc40c3-c079-4118-ad5d-7cb899a5c0ae)
+![Screenshot 2025-01-25 171223](https://github.com/user-attachments/assets/12bdce95-0b16-4193-b968-123c9facd32e)
