@@ -24,3 +24,8 @@ Feedback for successful or failed login
 
 
 ![Screenshot 2025-01-25 171223](https://github.com/user-attachments/assets/12bdce95-0b16-4193-b968-123c9facd32e)
+## 🎨 Figma Design  
+
+You can view the full **Bite-Heaven-Mobile-App** design on Figma:  
+
+🔗 [Figma Project Link](https://www.figma.com/design/INUrKRi9BD3dhzA519Uv8C/Untitled?m=auto&t=oSN70K7KxE2QZXXd-6)  
